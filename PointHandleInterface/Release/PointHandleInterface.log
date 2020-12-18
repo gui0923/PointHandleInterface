@@ -1,0 +1,31 @@
+﻿生成启动时间为 2013-6-14 23:14:25。
+     1>项目“D:\旧动态库\PointHandleInterface\PointHandleInterface\PointHandleInterface.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\PointHandleInterface.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\PointHandleInterface.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\PointHandleInterface.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\PointHandleInterface.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PointHandleInterface.cpp
+         PointHandleInterface.cpp
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\PointHandleInterface.res" PointHandleInterface.rc 
+       Link:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\Java\jdk1.6.0_07\jre\bin\PointHandleInterface.dll" /INCREMENTAL:NO /NOLOGO /DEF:".\PointHandleInterface.def" /MANIFEST /ManifestFile:"Release\PointHandleInterface.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Program Files\Java\jdk1.6.0_07\jre\bin\PointHandleInterface.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Program Files\Java\jdk1.6.0_07\jre\bin\PointHandleInterface.lib" /MACHINE:X86 /DLL Release\PointHandleInterface.res
+         Release\PointHandleInterface.obj
+         Release\stdafx.obj
+            正在创建库 C:\Program Files\Java\jdk1.6.0_07\jre\bin\PointHandleInterface.lib 和对象 C:\Program Files\Java\jdk1.6.0_07\jre\bin\PointHandleInterface.exp
+         正在生成代码
+         已完成代码的生成
+         PointHandleInterface.vcxproj -> C:\Program Files\Java\jdk1.6.0_07\jre\bin\PointHandleInterface.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Program Files\Java\jdk1.6.0_07\jre\bin\PointHandleInterface.dll;#2" /manifest Release\PointHandleInterface.dll.intermediate.manifest "E:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\PointHandleInterface.unsuccessfulbuild”。
+         正在对“Release\PointHandleInterface.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\旧动态库\PointHandleInterface\PointHandleInterface\PointHandleInterface.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.37
